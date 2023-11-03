@@ -1,9 +1,7 @@
 
-import 'package:assiment/View/Posts%20Screan.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'SnakBar.dart';
 
 import 'form_field_widget.dart';
 
